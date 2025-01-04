@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.226.57.59:8081/repository/maven-snapshots/</url>
+	      <url>http://52.25.77.77:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
