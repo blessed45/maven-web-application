@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.191.128.165:8081/repository/maven-release-repos/</url>
+	      <url>http://54.218.65.70:8081/repository/maven_release_repos/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
