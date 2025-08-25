@@ -24,7 +24,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://34.216.167.77:9000/</sonar.host.url> 
 		<sonar.login>admin</sonar.login>
-		<sonar.password>Blessed@9000</sonar.password> 
+		<sonar.password>Blessed@1000</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.92.164.2:8081/repository/maven-release-repo/</url>
+	      <url>http://52.24.5.129:8081/repository/maven_release_repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.92.164.2:8081/repository/maven-snapshots/</url>
+	      <url>http://52.24.5.129:8081/repository/snapshot_repos/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
